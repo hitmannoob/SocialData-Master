@@ -12,10 +12,7 @@ API license key are there for a limited time only.
 Topics trending on Twitter location wise.
 
 
-Made by:-
-    ISHAN GARG and
-    DEEP SRESTHI
-    
+Made by:- DEEPESH BANSAL
     
     
  
